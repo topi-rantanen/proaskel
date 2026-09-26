@@ -1,0 +1,6 @@
+# Generated / local only
+*.md
+_stitch/
+node_modules/
+.wrangler/
+.dev.vars

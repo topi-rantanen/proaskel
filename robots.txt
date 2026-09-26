@@ -1,0 +1,5 @@
+# Kaikki hakukoneet ja tekoälyrobotit ovat tervetulleita.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.proaskel.fi/sitemap.xml
